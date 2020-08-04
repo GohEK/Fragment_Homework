@@ -103,7 +103,6 @@
         android:layout_marginTop="8dp"
         android:text="@string/nextButton"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/open_button"
-        android:onClick="launchSecondActivity"/>
+        app:layout_constraintTop_toBottomOf="@+id/open_button" />
 
 </android.support.constraint.ConstraintLayout>
